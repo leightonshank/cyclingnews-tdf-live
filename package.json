@@ -2,6 +2,7 @@
   "name": "cyclingnews-tdf-live",
   "version": "1.0.0",
   "description": "CLI client for the Cyclingnews live Tour de France coverage",
+  "repository": "https://github.com/leightonshank/cyclingnews-tdf-live"
   "main": "index.js",
   "scripts": {
     "start": "bin/tdflive"
