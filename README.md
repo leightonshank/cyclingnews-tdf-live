@@ -6,7 +6,7 @@ So this is a little CLI client to pull the Cyclingnews live coverage feed into a
 
 ## Requirements
 
-- [NodeJS](https://nodejs.org/) (v0.12.6 preferred)
+- [NodeJS](https://nodejs.org/)
 
 ## Installation
 ```bash
