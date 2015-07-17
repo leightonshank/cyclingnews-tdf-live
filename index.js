@@ -18,6 +18,6 @@ tdfLive.start(function(err) {
     process.exit(1);
   }
 
-  console.log("Live feed is done for today.  Check back tomorrow!".blue);
+  console.log('Bye! Thanks for watching!'.magenta);
   process.exit(0);
 });

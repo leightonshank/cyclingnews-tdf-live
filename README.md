@@ -35,6 +35,7 @@ The following keystokes are recognized:
 - <kbd>f</kbd> Fast-foward while replaying a stage
 - <kbd>s</kbd> Display the current status - # of updates in the backlog, timestamp of the latest entry,
   whether or not the stage is complete.
+- <kbd>d</kbd> Display the distance remaining
 - <kbd>q</kbd> Quit
 
 <kbd>ctrl-c</kbd> will also exit the program.
