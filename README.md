@@ -27,7 +27,7 @@ Starting with the first update, each entry will be displayed as it happened, bei
 appropriate time amount.  So if 5 minutes passed between the first and second updates, then the
 replay too will elapse 5 minutes between showing the two updates.
 
-While replaying, you can press <kbd>f</kbd to fast-forward to the next update.
+While replaying, you can press <kbd>f</kbd> to fast-forward to the next update.
 
 ### Keystrokes
 The following keystokes are recognized:
