@@ -17,10 +17,6 @@ $ bin/tdflive [--replay]
 ```
 
 ## Usage
-```bash
-$ bin/tdflive [--replay]
-```
-
 ### --replay
 Use the `--replay` argument to replay the stage live, from the beginning.  It's kinda like Tivo(tm).
 Starting with the first update, each entry will be displayed as it happened, being delayed by the
