@@ -13,7 +13,7 @@ So this is a little CLI client to pull the Cyclingnews live coverage feed into a
 $ git clone https://github.com/leightonshank/cyclingnews-tdf-live.git
 $ cd cyclingnews-tdf-live
 $ npm install
-$ bin/tdflive
+$ bin/tdflive [--replay]
 ```
 
 ## Usage
