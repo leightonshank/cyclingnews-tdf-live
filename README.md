@@ -13,14 +13,10 @@ So this is a little CLI client to pull the Cyclingnews live coverage feed into a
 $ git clone https://github.com/leightonshank/cyclingnews-tdf-live.git
 $ cd cyclingnews-tdf-live
 $ npm install
-$ bin/tdflive
-```
-
-## Usage
-```bash
 $ bin/tdflive [--replay]
 ```
 
+## Usage
 ### --replay
 Use the `--replay` argument to replay the stage live, from the beginning.  It's kinda like Tivo(tm).
 Starting with the first update, each entry will be displayed as it happened, being delayed by the
