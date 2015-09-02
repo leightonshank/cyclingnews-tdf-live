@@ -4,6 +4,8 @@ spend most of my time in a terminal, and I love CLI tools.
 
 So this is a little CLI client to pull the Cyclingnews live coverage feed into a terminal window.
 
+Enjoy!
+
 ## Requirements
 
 - [NodeJS](https://nodejs.org/)
